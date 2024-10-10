@@ -2,6 +2,7 @@
 Project Title:
 Smart Home Automation Using ATmega32, LCD, Temperature Sensor, LDR Sensor, Flame Sensor
 and Motor Control
+This project is written with Drivers for: LCD, LDR, LED, LM35 Sensor, Flame Sensor, Motor, GPIO, Buzzer, PWM, ADC, STD Types.
 
 Objective:
 To design and implement a smart home system that automates the control of lighting and fan
@@ -20,3 +21,4 @@ the room temperature.
 3. Fire Detection: A flame sensor detects fire, triggers an alarm, and displays a critical alert
 on the LCD.
 4. LCD Display: Shows real-time temperature readings, fan status, light intensity, and alerts.
+
